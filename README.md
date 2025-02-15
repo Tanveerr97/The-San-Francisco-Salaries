@@ -31,3 +31,4 @@ Presented the dashboard and key insights to stakeholders for strategic decision-
 Microsoft Excel: For data cleaning, Pivot Table analysis, and dashboard creation.
 Data Visualization: Charts and graphs to enhance data storytelling and insight generation.
 This project demonstrates my proficiency in using Excel for data analysis, reporting, and dashboard development, showcasing my analytical and visualization skills relevant to a data analyst role.
+![Image](https://github.com/user-attachments/assets/f9941890-2208-4a9b-9d45-2c1089bba570)
